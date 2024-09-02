@@ -1,0 +1,24 @@
+#--------------------#
+
+DE - Parameters
+
+bounds: [(-500, 500), (-500, 500), (-500, 500), (-500, 500), (0, 360)]
+crossover_rate: 0.7
+max_generations: 100
+num_dimensions: 5
+num_population: 30
+objective_function: <function objective_function at 0x709b7ad601f0>
+scaling_factor: 0.5
+
+#--------------------#
+
+DE - Statistics:
+
+Runs: 30
+Mean Best Fitness: 21586.260320844653
+Median Best Fitness: 21299.668198060648
+Standard Deviation: 2275.4927463545114
+Minimum Best Fitness: 17619.78084658282
+Maximum Best Fitness: 27437.76547197516
+
+#--------------------#n

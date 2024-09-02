@@ -1,0 +1,25 @@
+#--------------------#
+
+PSO - Parameters
+
+bounds: [(-500, 500), (-500, 500), (-500, 500), (-500, 500), (0, 360)]
+c1: 1.5
+c2: 1.5
+num_cycles: 100
+num_dimensions: 5
+num_particles: 30
+objective_function: <function objective_function at 0x709b7ad601f0>
+psi: 0.5
+
+#--------------------#
+
+PSO - Statistics:
+
+Runs: 30
+Mean Best Fitness: 21106.35187297222
+Median Best Fitness: 27866.54461362985
+Standard Deviation: 13486.564389711679
+Minimum Best Fitness: -10000.0
+Maximum Best Fitness: 29957.361641735
+
+#--------------------#n

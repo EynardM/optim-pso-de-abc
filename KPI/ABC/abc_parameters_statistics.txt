@@ -1,0 +1,24 @@
+#--------------------#
+
+ABC - Parameters
+
+bounds: [(-500, 500), (-500, 500), (-500, 500), (-500, 500), (0, 360)]
+max_trials: 50
+num_dimensions: 5
+num_employed_bees: 30
+num_onlooker_bees: 30
+num_scout_bees: 30
+objective_function: <function objective_function at 0x709b7ad601f0>
+
+#--------------------#
+
+ABC - Statistics:
+
+Runs: 30
+Mean Best Fitness: -3124.833967710272
+Median Best Fitness: -2525.9018400866294
+Standard Deviation: 4378.334947597911
+Minimum Best Fitness: -10000.0
+Maximum Best Fitness: 8554.877820917383
+
+#--------------------#n
